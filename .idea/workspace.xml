@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="84c6715d-b14c-4fb1-8580-c9bb92db21a1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextClassificationmodelselection.py" beforeDir="false" afterPath="$PROJECT_DIR$/TextClassificationmodelselection.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +15,38 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TextClassificationmodelselection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="518">
-              <caret line="350" column="44" lean-forward="true" selection-start-line="350" selection-start-column="44" selection-end-line="350" selection-end-column="44" />
+            <state relative-caret-position="-251">
+              <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/NLP-with-Python/lib/python3.6/site-packages/sklearn/feature_extraction/text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/NLP-with-Python/lib/python3.6/site-packages/sklearn/pipeline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2583">
+              <caret line="135" column="27" selection-start-line="135" selection-start-column="27" selection-end-line="135" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/.virtualenvs/NLP-with-Python/lib/python3.6/site-packages/sklearn/naive_bayes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9723">
+              <caret line="478" column="37" selection-start-line="478" selection-start-column="37" selection-end-line="478" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -34,10 +60,11 @@
       <find>pandas</find>
       <find>tqdm</find>
       <find>progress</find>
-      <find>Naive Bayes classifier for multinomial models</find>
       <find>from sklearn.naive_bayes import MultinomialNB</find>
       <find>from sklearn.linear_model import SGDClassifier</find>
       <find>from sklearn.linear_model import LogisticRegression</find>
+      <find>Google</find>
+      <find>Naive Bayes classifier for multinomial models</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -153,12 +180,12 @@
     <frame x="0" y="-1" width="1920" height="1040" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49612403" visible="true" weight="0.18890075" />
-      <window_info id="Structure" order="1" sideWeight="0.503876" side_tool="true" visible="true" weight="0.18890075" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48726466" visible="true" weight="0.20170757" />
+      <window_info id="Structure" order="1" sideWeight="0.5127353" side_tool="true" visible="true" weight="0.20170757" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.52380955" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.5415282" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3765227" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -203,11 +230,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TextClassificationmodelselection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="350" column="44" lean-forward="true" selection-start-line="350" selection-start-column="44" selection-end-line="350" selection-end-column="44" />
+        <state relative-caret-position="-251">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="89" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/NLP-with-Python/lib/python3.6/site-packages/sklearn/feature_extraction/text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/NLP-with-Python/lib/python3.6/site-packages/sklearn/pipeline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2583">
+          <caret line="135" column="27" selection-start-line="135" selection-start-column="27" selection-end-line="135" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/NLP-with-Python/lib/python3.6/site-packages/sklearn/naive_bayes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9723">
+          <caret line="478" column="37" selection-start-line="478" selection-start-column="37" selection-end-line="478" selection-end-column="37" />
         </state>
       </provider>
     </entry>
